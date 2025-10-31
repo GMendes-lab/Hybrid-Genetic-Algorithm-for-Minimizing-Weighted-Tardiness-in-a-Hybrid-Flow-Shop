@@ -24,7 +24,7 @@ This project implements a sophisticated Genetic Algorithm (GA) for optimizing pr
 
 2. **Genetic Operators**
    - **Selection**: Tournament, Roulette, Rank selection
-   - **Crossover**: OX, PMX, CX crossover methods
+   - **Crossover**: OX, PMX crossover methods
    - **Mutation**: Shuffle, swap, inversion, scramble mutations
    - **Replacement**: Simple, Hill Climbing, Simulated Annealing
 
